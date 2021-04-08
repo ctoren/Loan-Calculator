@@ -2,7 +2,7 @@
 
 Loan Calculator Demo
 
-I created a sample web page with a simple Loan Calculator that calculates loan interest. 
+I created a sample web page with a simple Loan Calculator that calculates loan interest. The theme is superhero/comic book.
 
 The code is written mainly in HTML & CSS, and incorporates a little bit of JavaScript. I've also created all of the graphics/backgrounds/elements myself using Adobe Photoshop. 
 
